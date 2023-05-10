@@ -6,7 +6,7 @@
     "Author":"Davide Gena",
     "Version":"1.0.0",
     "Language":"python",
-    "Website":"", 
+    "Website":"https://github.com/DavidG33k/Flow.Launcher.Plugin.DeepFlow", 
     "IcoPath":"images\\ico.png",
     "ExecuteFileName":"main.py"
 }
