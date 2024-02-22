@@ -73,7 +73,9 @@ class deepL(FlowLauncher):
 
         # Online
         try:
-            urllib.request.urlopen("https://www.deepl.com/translator")
+            agent = {'User-Agent': "Edge, Brave, Firefox, Chrome, Opera"}
+            request = urllib.request.Request("https://www.deepl.com/translator", headers=agent)
+            urllib.request.urlopen(request)
 
             # print initial tutorial
             if len(query.strip()) == 0:
