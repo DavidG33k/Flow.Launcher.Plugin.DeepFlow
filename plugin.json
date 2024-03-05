@@ -4,7 +4,7 @@
     "Name":"DeepFlow",
     "Description":"Plugin to use DeepL in FlowLauncher",
     "Author":"Davide Gena",
-    "Version":"1.0.0",
+    "Version":"1.0.1",
     "Language":"python",
     "Website":"https://github.com/DavidG33k/Flow.Launcher.Plugin.DeepFlow", 
     "IcoPath":"https://cdn.statically.io/gh/DavidG33k/Flow.Launcher.Plugin.DeepFlow/main/images/ico.png",
